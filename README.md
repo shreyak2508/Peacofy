@@ -1,2 +1,2 @@
 # Peacofy
-This Python based project is abouta mental health assistant
+This Python based project is about a mental health assistant
